@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Inicial.TabbedPagina"
+             Title="TabbedPagina"
+            BarTextColor="BlueViolet"
+            SelectedTabColor="DimGray"
+            UnselectedTabColor="DarkRed">
+    <ContentPage Title="Item01">
+        <StackLayout>
+            <Label
+               Text="Pagina 01"/>
+
+            <RadioButton 
+                Content="Opcion 01"
+                CheckedChanged="RadioButton_CheckedChanged"
+                GroupName="Grupo01"/>
+            <RadioButton 
+    Content="Opcion 02"
+    CheckedChanged="RadioButton_CheckedChanged"
+                GroupName="Grupo01"/>
+            <RadioButton 
+    Content="Opcion 03"
+    CheckedChanged="RadioButton_CheckedChanged"
+                GroupName="Grupo02"/>
+            <RadioButton 
+    Content="Opcion 04"
+    CheckedChanged="RadioButton_CheckedChanged"
+                GroupName="Grupo02"/>
+            
+        </StackLayout>
+    </ContentPage>
+        <ContentPage Title="Item02">
+        <StackLayout>
+            <CheckBox
+               IsChecked="true"/>
+            <Slider
+                x:Name="slider"
+                Minimum="0"
+                Maximum="10"
+                MinimumTrackColor="LightBlue"
+                MaximumTrackColor="IndianRed"
+                ThumbColor="DarkBlue"
+                ValueChanged="slider_ValueChanged"/>
+
+            <Label
+                x:Name="lblSlider"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Item03">
+        <StackLayout>
+            <Label
+           Text="Pagina 03"/>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>

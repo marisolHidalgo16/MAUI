@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE554EE7-826D-78B7-E63A-E8EFE3B4C7F4}|Inicial\\Inicial.csproj|c:\\users\\xport\\onedrive\\desktop\\maui\\inicial\\inicial\\tabbedpagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE554EE7-826D-78B7-E63A-E8EFE3B4C7F4}|Inicial\\Inicial.csproj|solutionrelative:inicial\\tabbedpagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE554EE7-826D-78B7-E63A-E8EFE3B4C7F4}|Inicial\\Inicial.csproj|c:\\users\\xport\\onedrive\\desktop\\maui\\inicial\\inicial\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE554EE7-826D-78B7-E63A-E8EFE3B4C7F4}|Inicial\\Inicial.csproj|solutionrelative:inicial\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE554EE7-826D-78B7-E63A-E8EFE3B4C7F4}|Inicial\\Inicial.csproj|c:\\users\\xport\\onedrive\\desktop\\maui\\inicial\\inicial\\tabbedpagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE554EE7-826D-78B7-E63A-E8EFE3B4C7F4}|Inicial\\Inicial.csproj|solutionrelative:inicial\\tabbedpagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabbedPagina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\Inicial\\TabbedPagina.xaml.cs",
+              "RelativeDocumentMoniker": "Inicial\\TabbedPagina.xaml.cs",
+              "ToolTip": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\Inicial\\TabbedPagina.xaml.cs",
+              "RelativeToolTip": "Inicial\\TabbedPagina.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:19:41.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabbedPagina.xaml",
+              "DocumentMoniker": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\Inicial\\TabbedPagina.xaml",
+              "RelativeDocumentMoniker": "Inicial\\TabbedPagina.xaml",
+              "ToolTip": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\Inicial\\TabbedPagina.xaml",
+              "RelativeToolTip": "Inicial\\TabbedPagina.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T01:18:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\Inicial\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Inicial\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xport\\OneDrive\\Desktop\\MAUI\\Inicial\\Inicial\\MainPage.xaml.cs",
+              "RelativeToolTip": "Inicial\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:05:36.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
